@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[FemaleT is clicking..]]>
+    </line>
+    <line>
+      <![CDATA[Daughter is clicking..]]>
+    </line>
+    <line>
+      <![CDATA[NextButton is clicking..]]>
+    </line>
+    <line>
+      <![CDATA[selecting agedropdown1..]]>
+    </line>
+    <line>
+      <![CDATA[selecting agedropdown2..]]>
+    </line>
+    <line>
+      <![CDATA[continue button is clicking..]]>
+    </line>
+    <line>
+      <![CDATA[entering pin code ..]]>
+    </line>
+    <line>
+      <![CDATA[entering mobile no ..]]>
+    </line>
+    <line>
+      <![CDATA[continue button clicking ..]]>
+    </line>
+    <line>
+      <![CDATA[Validating text succesfully..]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-13T23:10:04 IST" name="Default suite" finished-at="2024-10-13T23:10:29 IST" duration-ms="24665">
+    <groups>
+    </groups>
+    <test started-at="2024-10-13T23:10:04 IST" name="Default test" finished-at="2024-10-13T23:10:29 IST" duration-ms="24665">
+      <class name="coverFoxTest.TC11_CoverFox_Appli">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:coverFoxTest.TC11_CoverFox_Appli@4116aac9]" started-at="2024-10-13T23:10:04 IST" name="LaunchBrowser" finished-at="2024-10-13T23:10:21 IST" duration-ms="16721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method is-config="true" signature="EnterDetails()[pri:0, instance:coverFoxTest.TC11_CoverFox_Appli@4116aac9]" started-at="2024-10-13T23:10:21 IST" name="EnterDetails" finished-at="2024-10-13T23:10:26 IST" duration-ms="4646" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FemaleT is clicking..]]>
+            </line>
+            <line>
+              <![CDATA[Daughter is clicking..]]>
+            </line>
+            <line>
+              <![CDATA[NextButton is clicking..]]>
+            </line>
+            <line>
+              <![CDATA[selecting agedropdown1..]]>
+            </line>
+            <line>
+              <![CDATA[selecting agedropdown2..]]>
+            </line>
+            <line>
+              <![CDATA[continue button is clicking..]]>
+            </line>
+            <line>
+              <![CDATA[entering pin code ..]]>
+            </line>
+            <line>
+              <![CDATA[entering mobile no ..]]>
+            </line>
+            <line>
+              <![CDATA[continue button clicking ..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnterDetails -->
+        <test-method signature="ValidatetingCoverFox()[pri:0, instance:coverFoxTest.TC11_CoverFox_Appli@4116aac9]" started-at="2024-10-13T23:10:26 IST" name="ValidatetingCoverFox" finished-at="2024-10-13T23:10:28 IST" duration-ms="1805" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validating text succesfully..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidatetingCoverFox -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:coverFoxTest.TC11_CoverFox_Appli@4116aac9]" started-at="2024-10-13T23:10:28 IST" name="CloseBrowser" finished-at="2024-10-13T23:10:29 IST" duration-ms="1441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- coverFoxTest.TC11_CoverFox_Appli -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
