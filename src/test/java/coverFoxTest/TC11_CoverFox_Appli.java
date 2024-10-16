@@ -2,6 +2,7 @@ package coverFoxTest;
 
 
 
+import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -49,6 +50,7 @@ public class TC11_CoverFox_Appli extends Base{
 		addressdeatils4.PinCode();
 		addressdeatils4.MobileNo();
 		addressdeatils4.ContinueButton();	
+		Reporter.log("Enter email id tages i wtire msg ",true);
 	}
 	
 	
