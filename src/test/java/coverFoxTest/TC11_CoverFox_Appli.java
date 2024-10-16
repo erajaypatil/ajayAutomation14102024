@@ -51,6 +51,7 @@ public class TC11_CoverFox_Appli extends Base{
 		addressdeatils4.MobileNo();
 		addressdeatils4.ContinueButton();	
 		Reporter.log("Enter email id tages i wtire msg ",true);
+		Reporter.log("hi this is my projet code i write for the automation coding purpose ",true);
 	}
 	
 	
